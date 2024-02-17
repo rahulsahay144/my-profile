@@ -50,8 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hands-On Solution Architecture Engineer / Full Stack developer with over 15 years of IT industry experience in delivering high-impact business solutions and application development & architecture. Skilled in <mark>Salesforce.com</mark>, <mark>cloud computing</mark>, <mark>information management</mark>, <mark>application design & development</mark>, <mark>integrations</mark> and Single Sign-On. Demonstrated mastery in evaluating requirements for business application integration and services. Proven mentor and training with expertise in communicating across organizational levels and with cross-functional teams to drive shared vision and foster culture of excellence. Track record of establishing credibility with customers and delivering successful projects.
 
-  Key Competencies: <mark>Digital Transformation</mark>, <mark>Strategic Planning & Execution</mark>, <mark>Lift and Shift</mark>, <mark>Lift Adjust and Shift Cloud First - Cloud Only</mark>, <mark>Agile Model</mark>
-  Industries: <mark>Group Insurance</mark>, <mark>Retirement</mark>, <mark>Employee Benefits</mark>, <mark>Financial Services</mark>, <mark>Retail Life Insurance</mark>, <mark>IRA</mark>
+  <br/>Key Competencies: <mark>Digital Transformation</mark>, <mark>Strategic Planning & Execution</mark>, <mark>Lift and Shift</mark>, <mark>Lift Adjust and Shift Cloud First - Cloud Only</mark>, <mark>Agile Model</mark>
+  <br/>Industries: <mark>Group Insurance</mark>, <mark>Retirement</mark>, <mark>Employee Benefits</mark>, <mark>Financial Services</mark>, <mark>Retail Life Insurance</mark>, <mark>IRA</mark>
 
 content:
   - title: Projects # Title for the section
