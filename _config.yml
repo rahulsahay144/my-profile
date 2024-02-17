@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   <br/>Key Competencies: <mark>Digital Transformation</mark>, <mark>Strategic Planning & Execution</mark>, <mark>Lift and Shift</mark>, <mark>Lift Adjust and Shift Cloud First - Cloud Only</mark>, <mark>Agile Model</mark>
   
-  <br/><br/>Industries: <mark>Group Insurance</mark>, <mark>Retirement</mark>, <mark>Employee Benefits</mark>, <mark>Financial Services</mark>, <mark>Retail Life Insurance</mark>, <mark>IRA</mark>
+  <br/>Industries: <mark>Group Insurance</mark>, <mark>Retirement</mark>, <mark>Employee Benefits</mark>, <mark>Financial Services</mark>, <mark>Retail Life Insurance</mark>, <mark>IRA</mark>
 
-  <br/><br/>Cloud Platforms: <mark>Amazon Web Services (AWS)</mark>, <mark>Salesforce.com</mark>, <mark>Pivotal Cloud Foundry (PCF)</mark>, <mark>Exact Target (Marketing Cloud)</mark>
+  <br/>Cloud Platforms: <mark>Amazon Web Services (AWS)</mark>, <mark>Salesforce.com</mark>, <mark>Pivotal Cloud Foundry (PCF)</mark>, <mark>Exact Target (Marketing Cloud)</mark>
 
 content:
   - title: Projects # Title for the section
